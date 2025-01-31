@@ -26,8 +26,8 @@ const app = express();
 app.use(cookieParser());
 app.use(express.json());
 
-app.listen(3000, () => {
-  console.log("Server is Running on Port 3000");
+app.listen(4000, '0.0.0.0', () => {
+  console.log("Server is Running on Port 4000");
 });
 
 const corsOptions = {

@@ -9,7 +9,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_API_KEY": "http://192.168.8.114:3000",
+        "EXPO_PUBLIC_API_KEY": "http://77.37.49.202:4000",
         "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_aG9uZXN0LWdhemVsbGUtOC5jbGVyay5hY2NvdW50cy5kZXYk"
       }
     },
@@ -18,7 +18,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_API_KEY": "http://192.168.8.114:3000",
+        "EXPO_PUBLIC_API_KEY":"http://77.37.49.202:4000",
         "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_aG9uZXN0LWdhemVsbGUtOC5jbGVyay5hY2NvdW50cy5kZXYk"
       }
     },
