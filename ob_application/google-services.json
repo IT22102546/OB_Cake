@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603146930628",
+    "project_id": "faite-1234d",
+    "storage_bucket": "faite-1234d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603146930628:android:224fd000a47a0d9b607c91",
+        "android_client_info": {
+          "package_name": "com.faite.obcakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603146930628-mumncpugejtov0ngog5bi8pssqmh688p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqPGs4IwdxaJ7P2k7lH7cZNyH1bQJoYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603146930628-mumncpugejtov0ngog5bi8pssqmh688p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
